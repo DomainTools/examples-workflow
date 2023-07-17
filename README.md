@@ -2,4 +2,4 @@ Playbooks, scripts, and hash for standalone that automate incident response acti
 
 Each examples are in separate folders at the root of this repo. Find your example and download the code. Each one has instructions on the README of the playbook directory - be sure to read those.
 
-Happy Hunting! -DomainTools Integrations
+Happy Hunting!
