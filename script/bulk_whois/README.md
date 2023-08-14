@@ -2,4 +2,7 @@ This script will perform whois IP lookup for a set of IP address from a text fil
 
 Usage: <script> <input file>
 
-Note: The script is just an example on how to perform bulk IP lookup. Your use of the code is at your own risk.
+################################################################################
+These solutions are provided as an example.
+It is not a supported solution from DomainTools. Use at your own discretion.
+################################################################################
