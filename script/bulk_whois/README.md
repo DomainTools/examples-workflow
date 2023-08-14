@@ -4,7 +4,7 @@ Usage: <script> <input file>
 
 ___
 
-**These solutions are provided as an example.
+**These solutions are provided as an example.**
 
-It is not a supported solution from DomainTools. Use at your own discretion.**
+**It is not a supported solution from DomainTools. Use at your own discretion.**
 ___
