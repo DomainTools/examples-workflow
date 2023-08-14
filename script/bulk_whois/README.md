@@ -3,9 +3,8 @@ This script will perform whois IP lookup for a set of IP address from a text fil
 Usage: <script> <input file>
 
 ___
-**
-These solutions are provided as an example.
 
-It is not a supported solution from DomainTools. Use at your own discretion.
-**
+**These solutions are provided as an example.
+
+It is not a supported solution from DomainTools. Use at your own discretion.**
 ___
