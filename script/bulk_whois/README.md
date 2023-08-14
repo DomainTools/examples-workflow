@@ -4,7 +4,7 @@ Usage: <script> <input file>
 
 ___
 
-**These solutions are provided as an example.**
+**This bulk_whois script is provided as an example. **
 
 **It is not a supported solution from DomainTools. Use at your own discretion.**
 ___
