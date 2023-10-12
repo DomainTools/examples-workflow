@@ -62,7 +62,7 @@ def call_DNSDB(myregex, exclude):
     return results
 
 ####################################### Main ####################################### 
-term = 'nike'                    # Term for typosquatting
+term = 'domaintools'                    # Term for typosquatting
 subdomain_only = True               # False to find both apex & subdomain
 run_DNSDB = True                   # False to skip DNSDB run
 fake_TLD = 'fakeTLD'                # leave this alone
