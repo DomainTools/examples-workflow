@@ -4,8 +4,8 @@ import time
 
 # Replace with your DomainTools API credentials
 
-USER_NAME = 'OUR_USERNAME'
-KEY = 'OUR_API_KEY'
+USER_NAME = 'YOUR_USERNAME'
+KEY = 'YOUR_API_KEY'
 
 # Initialize the DomainTools API
 api = API(USER_NAME, KEY)
